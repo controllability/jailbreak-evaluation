@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "jailbreak-evaluation"
+version = "1.0.0"
+authors = [
+  { name="Controllability" },
+]
+description = "A Python Library for Language Model Jailbreak Evaluation"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  "openai>=1.14.2",
+  "nltk>=3.8.1",
+  "tenacity>=8.2.3",
+]
+
+[project.urls]
+Homepage = "https://github.com/controllability/jailbreak-evaluation"
+Issues = "https://github.com/controllability/jailbreak-evaluation/issues"
