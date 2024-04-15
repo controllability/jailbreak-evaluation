@@ -71,8 +71,8 @@ We expect all contributions discussed in the issue tracker and going through PRs
 
 If you use jailbreak-evaluation in a scientific publication, we would appreciate citations to the following paper:
 ```
-@article{cai2024look,
-  title={Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak}, 
+@article{cai2024rethinking,
+  title={Rethinking How to Evaluate Language Model Jailbreak}, 
   author={Hongyu Cai and Arjun Arunasalam and Leo Y. Lin and Antonio Bianchi and Z. Berkay Celik},
   year={2024},
   journal={arXiv}
