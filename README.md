@@ -12,6 +12,8 @@ The jailbreak-evaluation is an easy-to-use Python package for language model jai
 The jailbreak-evaluation is designed for comprehensive and accurate evaluation of language model jailbreak attempts.
 Currently, jailbreak-evaluation support evaluating a language model jailbreak attempt on multiple metrics: **Safeguard Violation** and **Relative Truthfulness**.
 
+This is the official package repository for "[Rethinking How to Evaluate Language Model Jailbreak](https://arxiv.org/abs/2404.06407)", by Hongyu Cai, Arjun Arunasalam, Leo Y. Lin, Antonio Bianchi, and Z. Berkay Celik.
+
 ## Installation
 
 **Note on PyTorch and FastChat Installation**:
