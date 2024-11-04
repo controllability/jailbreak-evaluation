@@ -7,7 +7,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation.svg)
 ![GitHub forks](https://img.shields.io/github/forks/controllability/jailbreak-evaluation.svg)
 
-
 The jailbreak-evaluation is an easy-to-use Python package for language model jailbreak evaluation.
 The jailbreak-evaluation is designed for comprehensive and accurate evaluation of language model jailbreak attempts.
 Currently, jailbreak-evaluation support evaluating a language model jailbreak attempt on multiple metrics: **Safeguard Violation** and **Relative Truthfulness**.
